@@ -1,0 +1,4 @@
+# 当前会话血缘 + 全机工作区，两个入口都挂上。
+- insert:
+    - id: convo-flow
+      name: dsh-convo-flow
